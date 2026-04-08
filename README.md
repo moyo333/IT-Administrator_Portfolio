@@ -100,4 +100,4 @@ Applying logical thinking to automate system tasks
 # <h6>🤖 AI anomaly detection</h6>
 # <h6>🖥️ Multi-server monitoring</h6>
 # <h2>📬 Contact</h2>
-Email: brandabezinhlemoyo81@gmail.com
+ 
