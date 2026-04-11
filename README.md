@@ -7,30 +7,22 @@
 I am an aspiring IT Administrator and Cybersecurity enthusiast with a strong passion for system automation and security monitoring.  
 I specialize in using PowerShell to build real-world solutions for system performance monitoring, threat detection, and automated response.
 I am continuously developing my skills to become a professional in IT infrastructure and cybersecurity.
+
+# <h2>📸 Screenshots</h2>
+
+# <h4> https://moyo333.github.io/IT-Administrator_Portfolio/</h4>
+
+# The link of other projects
 # <h4>https://github.com/moyo333/Pfsense_portfolio</h4>
----
-
 ## 🚀 Project Overview
-
-This project is a **PowerShell-based SOC (Security Operations Center) Monitoring System** designed to monitor system performance and detect potential security threats in real time.
-
----
+<p>This project is a **PowerShell-based SOC (Security Operations Center) Monitoring System** designed to monitor system performance and detect potential security threats in real time.</p>
 
  Through this project, I have developed strong skills in PowerShell scripting, system monitoring, and basic cybersecurity practices. 
+  # <h2>🔥 Key Features</h2>
  
- # <h2>🔥 Key Features</h2>
- 
-#  <h6> ⚙️ CPU Monitoring (Real-time)</h6>
-# <h6> 💾 Memory Usage Monitoring</h6>
-# <h6> 🌐 Port Scanning System</h6>
-# <h6>🔐 Firewall Auto Blocking (Intrusion Response)</h6>
-# <h6>📊 Event Log Analysis (Brute Force Detection)</h6>
-# <h6>🔁 Real-Time Monitoring Loop</h6>
-# <h6>🚨 Alert Notification System</h6>
-# <h6>🧠 Skills Demonstrated</h6>
+<p> CPU Monitoring (Real-time),  Memory Usage Monitoring,  Port Scanning System, firewall Auto Blocking (Intrusion Response), Event Log Analysis (Brute Force Detection), Real-Time Monitoring Loop, Alert Notification System and Skills Demonstrated</p>
 
 # <h2>💻 Technical Skills</h2>
-
 PowerShell scripting
 Windows Server administration
 System monitoring
@@ -45,8 +37,7 @@ Firewall rule automation
 Log analysis
 Threat response
 
-# <h2>📸 Screenshots</h2>
-# <h4> https://moyo333.github.io/IT-Administrator_Portfolio/</h4>
+
 1. CPU Monitoring Script
 2. Memory Monitoring Script
 3. Port Scanner
@@ -54,23 +45,19 @@ Threat response
 5. Event Log Analysis
 6. Real-Time Monitoring Loop
 7. Alert System
-8. 
 # <h2>📘 What I Have Learned</h2>
 
-# <h2>💻 PowerShell & Automation</h2>
-
+# <h6>💻 PowerShell & Automation</h6>
 Writing and structuring PowerShell scripts
 Using functions, loops, and conditional statements
 Automating repetitive system administration tasks
 
 # <h2>📊 System Monitoring</h2>
-
 Monitoring CPU and memory usage in real time
 Creating continuous monitoring loops
 Setting thresholds to detect abnormal system behavior
 
 # <h2>🌐 Networking & Security</h2>
-
 Scanning network ports to identify open services
 Understanding common ports (e.g., 80, 443, 3389)
 Detecting potential security risks
@@ -88,7 +75,6 @@ Triggering alerts based on system thresholds
 Logging events for monitoring and auditing
 
 # <h2>🧠 Problem Solving</h2>
-
 Debugging PowerShell errors and improving scripts
 Understanding real-world IT and SOC workflows
 Applying logical thinking to automate system tasks
@@ -99,5 +85,5 @@ Applying logical thinking to automate system tasks
 # <h6>📧 Email alert integration</h6>
 # <h6>🤖 AI anomaly detection</h6>
 # <h6>🖥️ Multi-server monitoring</h6>
-# <h2>📬 Contact</h2>
+
  
